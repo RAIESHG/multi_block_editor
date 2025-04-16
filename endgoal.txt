@@ -1,0 +1,6 @@
+this is a website where user can upload their template dxf file
+the file contents are then read by the system code like the block names etc
+then the system will ask select blocks you want to edit
+then the system will give input files to enter the attributes of the blocks in a table format
+if user has multiple names for the same block then it should edit and create multiple dxf files of the same template
+It the system should be easily deployed to streamlit cloud
